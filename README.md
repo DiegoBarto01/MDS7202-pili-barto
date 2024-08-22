@@ -4,4 +4,4 @@
 - [Diego Bartolucci](https://github.com/DiegoBarto01/DiegoBarto01)
 - [Pilar Nilo](https://github.com/PilarNilo/Pilar-Nilo-V.git)
 
-<img src="https://tenor.com/bQ6Vf.gif">
+<img src="https://media1.tenor.com/m/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif">
