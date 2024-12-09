@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/Diego/Escritorio/Trabajos/Universidad/Lab%20MDS/Lab12/mlruns/109042426341219907/704bc253097f4dee8a960eea2037cd9b/artifacts
+end_time: 1733784770342
+entry_point_name: ''
+experiment_id: '109042426341219907'
+lifecycle_stage: active
+run_id: 704bc253097f4dee8a960eea2037cd9b
+run_name: XGBoost Trial 0
+run_uuid: 704bc253097f4dee8a960eea2037cd9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733784770261
+status: 3
+tags: []
+user_id: Diego
